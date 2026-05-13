@@ -1,0 +1,40 @@
+{
+  "bands": {
+    "need_attention": {
+      "min": 1,
+      "max": 3,
+      "label": "Need Attention",
+      "descriptions": {
+        "1": "Not Interested — No effort. Disengaged.",
+        "2": "Lacks Discipline — Works only when instructed. No initiative.",
+        "3": "Motivated but Directionless — Wants to help but lacks focus."
+      }
+    },
+    "productivity": {
+      "min": 4,
+      "max": 6,
+      "label": "Productivity",
+      "descriptions": {
+        "4": "Careless and Inconsistent — Some output but unreliable.",
+        "5": "Consistent Performer — Reliable execution. Does assigned work.",
+        "6": "Reliable and Productive — High trust executor. Supervisor delegates confidently."
+      }
+    },
+    "performance": {
+      "min": 7,
+      "max": 10,
+      "label": "Performance",
+      "descriptions": {
+        "7": "Problem Identifier — Notices issues others missed. Expands scope.",
+        "8": "Problem Solver — Builds practical solutions. Creates systems/processes.",
+        "9": "Innovative and Experimental — Experiments. Builds new tools/MVPs.",
+        "10": "Exceptional Performer — Replicable organizational impact. Others learn from them."
+      }
+    }
+  },
+  "six_vs_seven": {
+    "six": "Executes assigned work reliably. 'He does everything I give him.'",
+    "seven": "Identifies problems independently. 'She noticed rejection spikes on Mondays and started tracking why.'",
+    "difference": "INITIATIVE DIRECTION"
+  }
+}

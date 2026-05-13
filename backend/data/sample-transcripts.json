@@ -1,0 +1,22 @@
+{
+  "sampleTranscripts": [
+    {
+      "id": 1,
+      "name": "Execution Heavy",
+      "expectedScore": "6-7",
+      "transcript": "The Fellow has been really helpful. She handles all my follow-up calls and coordinates with the team. She attends every meeting and takes detailed notes. I can always count on her to do what I ask. She's very responsive to emails and never misses a deadline. Last week she organized a team meeting and sent out the agenda beforehand."
+    },
+    {
+      "id": 2,
+      "name": "Systems Builder",
+      "expectedScore": "7-8",
+      "transcript": "I've been impressed with the Fellow's initiative. She noticed we were having quality issues on Mondays and built a tracker to identify patterns. She created an SOP for the morning inspection process that reduced defects by 30%. She also set up a dashboard that helps the team monitor KPIs in real-time. The team adopted her workflow and it's running without her daily involvement."
+    },
+    {
+      "id": 3,
+      "name": "Task Absorber",
+      "expectedScore": "5-6",
+      "transcript": "The Fellow is very helpful and always willing to take on more work. She handles all the paperwork and follows up with customers. She's great at execution and never complains. I feel confident giving her any task because she gets it done. She's very present on the floor and everyone likes working with her."
+    }
+  ]
+}
